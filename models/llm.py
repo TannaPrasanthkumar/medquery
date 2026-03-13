@@ -1,6 +1,6 @@
 import logging
 from groq import Groq
-import google.genai as genai
+import google.generativeai as genai
 from config.config import (
     GROQ_API_KEY, GEMINI_API_KEY,
     GROQ_MODEL, GEMINI_MODEL,
