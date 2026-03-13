@@ -1,0 +1,173 @@
+14:53:37  INFO    [  1] 0000001_1.xml                                      -> 7 pairs
+14:53:37  INFO    [  2] 0000001_2.xml                                      -> 8 pairs
+14:53:37  INFO    [  3] 0000001_3.xml                                      -> 7 pairs
+14:53:37  INFO    [  4] 0000001_4.xml                                      -> 8 pairs
+14:53:37  INFO    [  5] 0000001_5.xml                                      -> 8 pairs
+14:53:37  INFO    [  6] 0000001_6.xml                                      -> 7 pairs
+14:53:37  INFO    [  7] 0000001_7.xml                                      -> 8 pairs
+14:53:37  INFO    [  8] 0000003_1.xml                                      -> 8 pairs
+14:53:37  INFO    [  9] 0000003_2.xml                                      -> 6 pairs
+14:53:37  INFO    [ 10] 0000003_3.xml                                      -> 4 pairs
+14:53:37  INFO    [ 11] 0000003_4.xml                                      -> 7 pairs
+14:53:37  INFO    [ 12] 0000003_5.xml                                      -> 8 pairs
+14:53:37  INFO    [ 13] 0000003_6.xml                                      -> 4 pairs
+14:53:37  INFO    [ 14] 0000004_1.xml                                      -> 8 pairs
+14:53:37  INFO    [ 15] 0000004_2.xml                                      -> 8 pairs
+14:53:37  INFO    [ 16] 0000004_3.xml                                      -> 6 pairs
+14:53:37  INFO    [ 17] 0000004_4.xml                                      -> 7 pairs
+14:53:37  INFO    [ 18] 0000004_5.xml                                      -> 6 pairs
+14:53:37  INFO    [ 19] 0000004_6.xml                                      -> 8 pairs
+14:53:37  INFO    [ 20] 0000004_7.xml                                      -> 7 pairs
+14:53:37  INFO    [ 21] 0000005_1.xml                                      -> 8 pairs
+14:53:37  INFO    [ 22] 0000005_2.xml                                      -> 1 pairs
+14:53:37  INFO    [ 23] 0000006_1.xml                                      -> 9 pairs
+14:53:37  INFO    [ 24] 0000006_2.xml                                      -> 7 pairs
+14:53:37  INFO    [ 25] 0000006_3.xml                                      -> 9 pairs
+14:53:37  INFO    [ 26] 0000006_4.xml                                      -> 8 pairs
+14:53:37  INFO    [ 27] 0000006_5.xml                                      -> 9 pairs
+14:53:37  INFO    [ 28] 0000006_6.xml                                      -> 7 pairs
+14:53:37  INFO    [ 29] 0000006_7.xml                                      -> 8 pairs
+14:53:37  INFO    [ 30] 0000006_8.xml                                      -> 8 pairs
+14:53:37  INFO    [ 31] 0000006_9.xml                                      -> 8 pairs
+14:53:37  INFO    [ 32] 0000007_1.xml                                      -> 8 pairs
+14:53:37  INFO    [ 33] 0000007_2.xml                                      -> 8 pairs
+14:53:37  INFO    [ 34] 0000007_3.xml                                      -> 8 pairs
+14:53:37  INFO    [ 35] 0000007_4.xml                                      -> 4 pairs
+14:53:37  INFO    [ 36] 0000007_5.xml                                      -> 2 pairs
+14:53:37  INFO    [ 37] 0000009_1.xml                                      -> 7 pairs
+14:53:37  INFO    [ 38] 0000009_2.xml                                      -> 8 pairs
+14:53:37  INFO    [ 39] 0000010_1.xml                                      -> 8 pairs
+14:53:37  INFO    [ 40] 0000013_1.xml                                      -> 2 pairs
+14:53:37  INFO    [ 41] 0000013_2.xml                                      -> 4 pairs
+14:53:37  INFO    [ 42] 0000013_2_1.xml                                    -> 4 pairs
+14:53:37  INFO    [ 43] 0000013_2_2.xml                                    -> 4 pairs
+14:53:37  INFO    [ 44] 0000013_2_3.xml                                    -> 4 pairs
+14:53:37  INFO    [ 45] 0000013_2_4.xml                                    -> 2 pairs
+14:53:37  INFO    [ 46] 0000013_2_5.xml                                    -> 3 pairs
+14:53:37  INFO    [ 47] 0000013_2_6.xml                                    -> 2 pairs
+14:53:37  INFO    [ 48] 0000013_3.xml                                      -> 4 pairs
+14:53:37  INFO    [ 49] 0000013_3_1.xml                                    -> 5 pairs
+14:53:37  INFO    [ 50] 0000013_3_2.xml                                    -> 4 pairs
+14:53:37  INFO    [ 51] 0000013_3_3.xml                                    -> 4 pairs
+14:53:37  INFO    [ 52] 0000013_3_4.xml                                    -> 3 pairs
+14:53:37  INFO    [ 53] 0000014_1.xml                                      -> 8 pairs
+14:53:37  INFO    [ 54] 0000014_2.xml                                      -> 8 pairs
+14:53:37  INFO    [ 55] 0000014_3.xml                                      -> 4 pairs
+14:53:37  INFO    [ 56] 0000014_4.xml                                      -> 2 pairs
+14:53:37  INFO    [ 57] 0000015_1.xml                                      -> 9 pairs
+14:53:37  INFO    [ 58] 0000016_1.xml                                      -> 8 pairs
+14:53:37  INFO    [ 59] 0000017_1.xml                                      -> 8 pairs
+14:53:37  INFO    [ 60] 0000018_1.xml                                      -> 9 pairs
+14:53:37  INFO    [ 61] 0000019_1.xml                                      -> 10 pairs
+14:53:37  INFO    [ 62] 0000019_2.xml                                      -> 7 pairs
+14:53:37  INFO    [ 63] 0000019_3.xml                                      -> 7 pairs
+14:53:37  INFO    [ 64] 0000019_4.xml                                      -> 4 pairs
+14:53:37  INFO    [ 65] 0000019_5.xml                                      -> 2 pairs
+14:53:37  INFO    [ 66] 0000020_1.xml                                      -> 8 pairs
+14:53:37  INFO    [ 67] 0000021_1.xml                                      -> 4 pairs
+14:53:37  INFO    [ 68] 0000021_2.xml                                      -> 4 pairs
+14:53:37  INFO    [ 69] 0000022_1.xml                                      -> 8 pairs
+14:53:37  INFO    [ 70] 0000023_1.xml                                      -> 8 pairs
+14:53:37  INFO    [ 71] 0000024_1.xml                                      -> 8 pairs
+14:53:37  INFO    [ 72] 0000024_10.xml                                     -> 3 pairs
+14:53:37  INFO    [ 73] 0000024_2.xml                                      -> 8 pairs
+14:53:37  INFO    [ 74] 0000024_3.xml                                      -> 8 pairs
+14:53:37  INFO    [ 75] 0000024_4.xml                                      -> 7 pairs
+14:53:37  INFO    [ 76] 0000024_5.xml                                      -> 8 pairs
+14:53:37  INFO    [ 77] 0000024_6.xml                                      -> 8 pairs
+14:53:37  INFO    [ 78] 0000024_7.xml                                      -> 8 pairs
+14:53:37  INFO    [ 79] 0000024_8.xml                                      -> 8 pairs
+14:53:37  INFO    [ 80] 0000024_9.xml                                      -> 3 pairs
+14:53:37  INFO    [ 81] 0000025_1.xml                                      -> 8 pairs
+14:53:37  INFO    [ 82] 0000025_2.xml                                      -> 7 pairs
+14:53:37  INFO    [ 83] 0000026_1.xml                                      -> 4 pairs
+14:53:37  INFO    [ 84] 0000026_2.xml                                      -> 7 pairs
+14:53:37  INFO    [ 85] 0000026_3.xml                                      -> 8 pairs
+14:53:37  INFO    [ 86] 0000027_1.xml                                      -> 10 pairs
+14:53:37  INFO    [ 87] 0000027_2.xml                                      -> 8 pairs
+14:53:37  INFO    [ 88] 0000027_3.xml                                      -> 7 pairs
+14:53:37  INFO    [ 89] 0000027_4.xml                                      -> 4 pairs
+14:53:37  INFO    [ 90] 0000027_5.xml                                      -> 3 pairs
+14:53:37  INFO    [ 91] 0000028_1.xml                                      -> 7 pairs
+14:53:37  INFO    [ 92] 0000028_2.xml                                      -> 8 pairs
+14:53:37  INFO    [ 93] 0000028_3.xml                                      -> 8 pairs
+14:53:37  INFO    [ 94] 0000028_4.xml                                      -> 4 pairs
+14:53:37  INFO    [ 95] 0000028_5.xml                                      -> 2 pairs
+14:53:37  INFO    [ 96] 0000030_1.xml                                      -> 7 pairs
+14:53:37  INFO    [ 97] 0000031_1.xml                                      -> 8 pairs
+14:53:37  INFO    [ 98] 0000031_2.xml                                      -> 3 pairs
+14:53:37  INFO    [ 99] 0000032_1.xml                                      -> 8 pairs
+14:53:37  INFO    [100] 0000032_2.xml                                      -> 7 pairs
+14:53:37  INFO  ------------------------------------------------------------
+14:53:37  INFO  Parsed 100 files  |  635 total Q&A pairs
+14:53:37  INFO  Created 8197 chunks from 635 Q&A pairs
+14:53:37  INFO  Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+14:53:37  INFO     (Downloads ~90MB on first run - cached after that)
+14:53:37  INFO  Use pytorch device_name: cpu
+14:53:37  INFO  Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+14:53:38  INFO  HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+14:53:38  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+14:53:39  INFO  HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+14:53:39  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+14:53:39  INFO  HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+14:53:39  WARNING  Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+14:53:39  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+14:53:39  INFO  HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+14:53:39  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md "HTTP/1.1 200 OK"
+14:53:39  INFO  HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+14:53:39  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+14:53:40  INFO  HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+14:53:40  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json "HTTP/1.1 200 OK"
+14:53:40  INFO  HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+14:53:40  INFO  HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+14:53:40  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+14:53:40  INFO  HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+14:53:40  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+14:53:41  INFO  HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+14:53:41  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json "HTTP/1.1 200 OK"
+14:53:41  INFO  HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+14:53:41  INFO  HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+14:53:41  INFO  HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+14:53:41  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+14:53:42  INFO  HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+14:53:42  INFO  Embedding model loaded
+14:53:42  INFO  Generating embeddings for 8197 chunks...
+14:53:52  INFO    Batch 1/17  (6%)  --  chunks 0 to 500
+14:54:04  INFO    Batch 2/17  (12%)  --  chunks 500 to 1000
+14:54:12  INFO    Batch 3/17  (18%)  --  chunks 1000 to 1500
+14:54:22  INFO    Batch 4/17  (24%)  --  chunks 1500 to 2000
+14:54:33  INFO    Batch 5/17  (29%)  --  chunks 2000 to 2500
+14:54:41  INFO    Batch 6/17  (35%)  --  chunks 2500 to 3000
+14:54:48  INFO    Batch 7/17  (41%)  --  chunks 3000 to 3500
+14:54:58  INFO    Batch 8/17  (47%)  --  chunks 3500 to 4000
+14:55:07  INFO    Batch 9/17  (53%)  --  chunks 4000 to 4500
+14:55:16  INFO    Batch 10/17  (59%)  --  chunks 4500 to 5000
+14:55:25  INFO    Batch 11/17  (65%)  --  chunks 5000 to 5500
+14:55:35  INFO    Batch 12/17  (71%)  --  chunks 5500 to 6000
+14:55:44  INFO    Batch 13/17  (76%)  --  chunks 6000 to 6500
+14:55:53  INFO    Batch 14/17  (82%)  --  chunks 6500 to 7000
+14:56:03  INFO    Batch 15/17  (88%)  --  chunks 7000 to 7500
+14:56:11  INFO    Batch 16/17  (94%)  --  chunks 7500 to 8000
+14:56:15  INFO    Batch 17/17  (100%)  --  chunks 8000 to 8197
+14:56:15  INFO  Embeddings generated: 8197 vectors of dim 384
+14:56:15  INFO  Connecting to ChromaDB at: C:\Users\tanna\OneDrive\Desktop\My profile\medquery\chroma_db
+14:56:15  INFO  Created ChromaDB collection: medquad_collection
+14:56:15  INFO  Storing 8197 chunks in ChromaDB...
+14:56:15  INFO    Stored batch 1/17
+14:56:16  INFO    Stored batch 2/17
+14:56:16  INFO    Stored batch 3/17
+14:56:17  INFO    Stored batch 4/17
+14:56:17  INFO    Stored batch 5/17
+14:56:18  INFO    Stored batch 6/17
+14:56:18  INFO    Stored batch 7/17
+14:56:19  INFO    Stored batch 8/17
+14:56:20  INFO    Stored batch 9/17
+14:56:20  INFO    Stored batch 10/17
+14:56:21  INFO    Stored batch 11/17
+14:56:22  INFO    Stored batch 12/17
+14:56:23  INFO    Stored batch 13/17
+14:56:23  INFO    Stored batch 14/17
+14:56:24  INFO    Stored batch 15/17
+14:56:25  INFO    Stored batch 16/17
+14:56:25  INFO    Stored batch 17/17
+14:56:25  INFO  ChromaDB store complete -- 8197 chunks indexed
